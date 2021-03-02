@@ -4,7 +4,7 @@
 
 
 # Who I'm ?
-<p> Name:omer ali .</p>
+<p> Name: Omer Ali .</p>
 <p> Contact: omeralis2000@gmail.com</p>.
 
 
